@@ -133,14 +133,6 @@ section > div > p {
 	.col-md-12 {
 		width: 100%;
 	}
-	section:last-child{
-		width: 100%;
-	}
-	section:last-child > div{
-		margin-right: auto;
-		margin-left: auto;
-	}
-
 }
 
 /* Mobile view */
